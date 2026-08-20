@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boucetta Oussama</h1>
 <h3 align="center">Full-Stack Software Engineer & Mobile Developer | Master's Student in Networks & Distributed Systems</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oussamabou6" alt="Trophies" /></a>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oussamabou6&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
